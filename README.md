@@ -1,31 +1,12 @@
-Getting Started with VR View for Android Codelab
-================================================
+Hackathon Salalah
 
-This is the companion project to the VR View for Android codelab.
+Hackathon Salalah is a competition where developers, coders, graphic designers, data scientists, innovators, students, engineers, entrepreneurs, and scientists convene together to prototype and develop state-of-the-art smart solutions that would help to transform ‘Salalah City’ into a responsive and smart city. 
 
-Please see https://codelabs.developers.google.com/ for the codelab text.
 
-Support
--------
- If you've found an error in this sample, please file an issue:
-https://github.com/googlecodelabs/vrview-android/issues
-
-Patches are encouraged, and may be submitted by forking this project and
-submitting a pull request through GitHub.
-
-License
--------
-Copyright 2016 Google, Inc.
-Licensed to the Apache Software Foundation (ASF) under one or more contributor
-license agreements.  See the NOTICE file distributed with this work for
-additional information regarding copyright ownership.  The ASF licenses this
-file to you under the Apache License, Version 2.0 (the "License"); you may not
-use this file except in compliance with the License.  You may obtain a copy of
-the License at
-  http://www.apache.org/licenses/LICENSE-2.0
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
-License for the specific language governing permissions and limitations under
-the License.
-
+Aims 
+To unleash youth’s creative minds and help them capitalize on their creative ideas and solutions
+To assist participants to convert their ideas into a reality (a full-fledged start-up)
+To create a space that helps the youth to share and co-create knowledge to develop better and smarter cities
+To create a culture of innovation among our students, scientists, entrepreneurs, researchers, and residents
+To strengthen and build sense of community
+To inspire and aspire the young generation to help solve societal and industrial problems
